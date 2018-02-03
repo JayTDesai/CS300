@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SwimSim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/SwimSim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
